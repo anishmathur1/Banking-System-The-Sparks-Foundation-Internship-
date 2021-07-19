@@ -5,8 +5,8 @@
 
 
 
-# spark foundation intership project
-# topic -basic banking system
+# The Sparks Foundation
+# Topic : Basic Banking Website
 # web developement project
-# made by sonali pandey
+# Made by Shourya
 
